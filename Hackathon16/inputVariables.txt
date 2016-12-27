@@ -1,0 +1,7 @@
+test1    20
+value    2
+order    7
+x    4
+y    5
+or_der    8
+test1    4
